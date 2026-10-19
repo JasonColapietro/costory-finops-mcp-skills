@@ -1,6 +1,7 @@
 ---
 name: cost-change-investigation
 description: "Use when investigating a cost change to explain what changed, when, and the best-supported drivers with contribution, timing, usage, metric, event, alert, and terminology evidence. Call get_skill with skillId \"cost-change-investigation\" before starting the investigation."
+compatibility: "Requires the hosted Costory FinOps MCP (https://app-api.costory.io/mcp, browser OAuth) and a Costory workspace with billing data connected."
 ---
 
 # Cost Change Investigation

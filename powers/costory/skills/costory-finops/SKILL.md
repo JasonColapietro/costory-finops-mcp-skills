@@ -1,11 +1,11 @@
 ---
 name: costory-finops
-description: "Use when the user asks about cloud, Kubernetes, SaaS or AI spend through Costory: why a bill moved, cost by team/service/namespace, unit economics, budgets, allocating shared or untagged cost, or building Costory dashboards, scheduled reports and cost alerts. Covers org selection, the tool order, preview-then-confirm rules for write tools, and when to load the detailed Costory skills with get_skill."
+description: "Use when the user asks about cloud, Kubernetes, SaaS or AI spend through Costory: \"why did our bill jump?\", cost by team/service/namespace, unit economics, budgets, allocating shared or untagged cost, or building Costory dashboards, scheduled reports and cost alerts. Covers org selection, the tool order, preview-then-confirm rules for write tools, and when to load the detailed Costory skills with get_skill."
 license: "Apache-2.0"
 compatibility: "Requires the hosted Costory FinOps MCP (https://app-api.costory.io/mcp, OAuth in the browser) and a Costory workspace with billing data connected."
 metadata:
   author: "Costory"
-  version: "0.12.5"
+  version: "0.12.6"
 ---
 
 # Costory FinOps Agent
