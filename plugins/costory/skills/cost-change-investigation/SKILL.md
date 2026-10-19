@@ -101,6 +101,10 @@ Reproduce values character for character; never normalise case, trim, expand, or
 - Terminology matches establish meaning, not causality. An MCP event or alert is relevant only when its content also matches the scenario or evidence, not from date overlap alone.
 - Do not invent operational causes; use only contributor, timing, metric, alert, or event evidence for explanations.
 
+### Worked evidence review
+
+For a synthetic example of nested contributors, missing timing data, and the final two-field response, see `${CLAUDE_PLUGIN_ROOT}/skills/cost-change-investigation/references/evidence-review.md`. This optional reference illustrates the rules above; the workflow remains self-contained when loaded through `get_skill`.
+
 ## Output
 
 - Return only `summary` and `methodology`.
